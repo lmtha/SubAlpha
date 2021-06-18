@@ -46,7 +46,7 @@
 		6DD7549557E50CA5E2FE6848 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		935238B3A3651AFDC33BEE19 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		ADF858C4EA7C327256A75194 /* Pods-SubAlpha_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SubAlpha_Example.debug.xcconfig"; path = "Target Support Files/Pods-SubAlpha_Example/Pods-SubAlpha_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		E159F440E44686CA1B103B12 /* SubAlpha.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SubAlpha.podspec; path = ../SubAlpha.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E159F440E44686CA1B103B12 /* SubAlpha.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = SubAlpha.podspec; path = ../SubAlpha.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
