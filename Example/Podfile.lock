@@ -1,0 +1,16 @@
+PODS:
+  - SubAlpha (0.1.0)
+
+DEPENDENCIES:
+  - SubAlpha (from `../`)
+
+EXTERNAL SOURCES:
+  SubAlpha:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SubAlpha: 2b614dde3c8a657d9dfcca7dde8b3778adf1fcf7
+
+PODFILE CHECKSUM: 88ad0a22bb78b58ed0c29207bee760dcdab6f29f
+
+COCOAPODS: 1.10.1

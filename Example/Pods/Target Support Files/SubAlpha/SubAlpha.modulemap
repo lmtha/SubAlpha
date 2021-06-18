@@ -1,0 +1,6 @@
+framework module SubAlpha {
+  umbrella header "SubAlpha-umbrella.h"
+
+  export *
+  module * { export * }
+}

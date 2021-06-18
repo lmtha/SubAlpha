@@ -43,10 +43,10 @@
 		607FACE51AFB9204008FA782 /* SubAlpha_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SubAlpha_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6DD7549557E50CA5E2FE6848 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		935238B3A3651AFDC33BEE19 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6DD7549557E50CA5E2FE6848 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		935238B3A3651AFDC33BEE19 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		ADF858C4EA7C327256A75194 /* Pods-SubAlpha_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SubAlpha_Example.debug.xcconfig"; path = "Target Support Files/Pods-SubAlpha_Example/Pods-SubAlpha_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		E159F440E44686CA1B103B12 /* SubAlpha.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SubAlpha.podspec; path = ../SubAlpha.podspec; sourceTree = "<group>"; };
+		E159F440E44686CA1B103B12 /* SubAlpha.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SubAlpha.podspec; path = ../SubAlpha.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +77,6 @@
 				32FB2EB01C2CE1E934724D78 /* Pods-SubAlpha_Tests.debug.xcconfig */,
 				3A19240DA6C56254242D88F9 /* Pods-SubAlpha_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
