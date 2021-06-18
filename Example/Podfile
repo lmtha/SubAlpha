@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SubAlpha_Example' do
+  pod 'SubAlpha', :path => '../'
+
+  target 'SubAlpha_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
