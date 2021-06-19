@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SubAlpha'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'A short description of SubAlpha.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/lmt.17101997@gmail.com/SubAlpha'
+  s.homepage         = 'https://github.com/lmtha/SubAlpha'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lmt.17101997@gmail.com' => 'minhtha.le2@gmail.com' }

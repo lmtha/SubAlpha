@@ -12,6 +12,7 @@ public class SubAlpha: NSObject {
     public override init() {}
     
     public func log(message: String) {
-        print("Log message: ", message)
+        print("DDLog: ", message)
+        print("LLDBLog: ", message)
     }
 }
