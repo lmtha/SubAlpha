@@ -17,5 +17,6 @@ public class SubAlpha: NSObject {
         print("0.4.0: ", message)
         print("0.5.0: ", message)
         print("0.6.0: ", message)
+        print("0.7.0: ", message)
     }
 }
